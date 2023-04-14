@@ -1,0 +1,256 @@
+{
+  customerNumber: 103,
+  customerName: 'Atelier graphique',
+  contactLastName: 'Schmitt',
+  contactFirstName: 'Carine ',
+  phone: '40.32.2555',
+  addressLine1: '54, rue Royale',
+  addressLine2: null,
+  city: 'Nantes',
+  state: null,
+  postalCode: '44000',
+  country: 'France',
+  salesRepEmployeeNumber: 1370,
+  creditLimit: 21000,
+  orders: [
+    {
+      orderNumber: 10123,
+      orderDate: 2003-05-20T00:00:00.000Z,   
+      requiredDate: 2003-05-29T00:00:00.000Z,
+      shippedDate: 2003-05-22T00:00:00.000Z,
+      status: 'Shipped',
+      comments: null,
+      customerNumber: 103
+    },
+    {
+      orderNumber: 10298,
+      orderDate: 2004-09-27T00:00:00.000Z,
+      requiredDate: 2004-10-05T00:00:00.000Z,
+      shippedDate: 2004-10-01T00:00:00.000Z,
+      status: 'Shipped',
+      comments: null,
+      customerNumber: 103
+    },
+    {
+      orderNumber: 10345,
+      orderDate: 2004-11-25T00:00:00.000Z,
+      requiredDate: 2004-12-01T00:00:00.000Z,
+      shippedDate: 2004-11-26T00:00:00.000Z,
+      status: 'Shipped',
+      comments: null,
+      customerNumber: 103
+    }
+  ]
+}
+{
+  customerNumber: 112,
+  customerName: 'Signal Gift Stores',
+  contactLastName: 'King',
+  contactFirstName: 'Jean',
+  phone: '7025551838',
+  addressLine1: '8489 Strong St.',
+  addressLine2: null,
+  city: 'Las Vegas',
+  state: 'NV',
+  postalCode: '83030',
+  country: 'USA',
+  salesRepEmployeeNumber: 1166,
+  creditLimit: 71800,
+  orders: [
+    {
+      orderNumber: 10124,
+      orderDate: 2003-05-21T00:00:00.000Z,
+      requiredDate: 2003-05-29T00:00:00.000Z,
+      shippedDate: 2003-05-25T00:00:00.000Z,
+      status: 'Shipped',
+      comments: 'Customer very concerned about the exact color of the models. There is high risk that he may dispute the order because there is a slight color mismatch',
+      customerNumber: 112
+    },
+    {
+      orderNumber: 10278,
+      orderDate: 2004-08-06T00:00:00.000Z,
+      requiredDate: 2004-08-16T00:00:00.000Z,
+      shippedDate: 2004-08-09T00:00:00.000Z,
+      status: 'Shipped',
+      comments: null,
+      customerNumber: 112
+    },
+    {
+      orderNumber: 10346,
+      orderDate: 2004-11-29T00:00:00.000Z,
+      requiredDate: 2004-12-05T00:00:00.000Z,
+      shippedDate: 2004-11-30T00:00:00.000Z,
+      status: 'Shipped',
+      comments: null,
+      customerNumber: 112
+    }
+  ]
+}
+{
+  customerNumber: 114,
+  customerName: 'Australian Collectors, Co.',
+  contactLastName: 'Ferguson',
+  contactFirstName: 'Peter',
+  phone: '03 9520 4555',
+  addressLine1: '636 St Kilda Road',
+  addressLine2: 'Level 3',
+  city: 'Melbourne',
+  state: 'Victoria',
+  postalCode: '3004',
+  country: 'Australia',
+  salesRepEmployeeNumber: 1611,
+  creditLimit: 117300,
+  orders: [
+    {
+      orderNumber: 10120,
+      orderDate: 2003-04-29T00:00:00.000Z,
+      requiredDate: 2003-05-08T00:00:00.000Z,
+      shippedDate: 2003-05-01T00:00:00.000Z,
+      status: 'Shipped',
+      comments: null,
+      customerNumber: 114
+    },
+    {
+      orderNumber: 10125,
+      orderDate: 2003-05-21T00:00:00.000Z,
+      requiredDate: 2003-05-27T00:00:00.000Z,
+      shippedDate: 2003-05-24T00:00:00.000Z,
+      status: 'Shipped',
+      comments: null,
+      customerNumber: 114
+    },
+    {
+      orderNumber: 10223,
+      orderDate: 2004-02-20T00:00:00.000Z,
+      requiredDate: 2004-02-29T00:00:00.000Z,
+      shippedDate: 2004-02-24T00:00:00.000Z,
+      status: 'Shipped',
+      comments: null,
+      customerNumber: 114
+    },
+    {
+      orderNumber: 10342,
+      orderDate: 2004-11-24T00:00:00.000Z,
+      requiredDate: 2004-12-01T00:00:00.000Z,
+      shippedDate: 2004-11-29T00:00:00.000Z,
+      status: 'Shipped',
+      comments: null,
+      customerNumber: 114
+    },
+    {
+      orderNumber: 10347,
+      orderDate: 2004-11-29T00:00:00.000Z,
+      requiredDate: 2004-12-07T00:00:00.000Z,
+      shippedDate: 2004-11-30T00:00:00.000Z,
+      status: 'Shipped',
+      comments: 'Can we deliver the new Ford Mustang models by end-of-quarter?',
+      customerNumber: 114
+    }
+  ]
+}
+{
+  customerNumber: 119,
+  customerName: 'La Rochelle Gifts',
+  contactLastName: 'Labrune',
+  contactFirstName: 'Janine ',
+  phone: '40.67.8555',
+  addressLine1: '67, rue des Cinquante Otages',
+  addressLine2: null,
+  city: 'Nantes',
+  state: null,
+  postalCode: '44000',
+  country: 'France',
+  salesRepEmployeeNumber: 1370,
+  creditLimit: 118200,
+  orders: [
+    {
+      orderNumber: 10275,
+      orderDate: 2004-07-23T00:00:00.000Z,
+      requiredDate: 2004-08-02T00:00:00.000Z,
+      shippedDate: 2004-07-29T00:00:00.000Z,
+      status: 'Shipped',
+      comments: null,
+      customerNumber: 119
+    },
+    {
+      orderNumber: 10315,
+      orderDate: 2004-10-29T00:00:00.000Z,
+      requiredDate: 2004-11-08T00:00:00.000Z,
+      shippedDate: 2004-10-30T00:00:00.000Z,
+      status: 'Shipped',
+      comments: null,
+      customerNumber: 119
+    },
+    {
+      orderNumber: 10375,
+      orderDate: 2005-02-03T00:00:00.000Z,
+      requiredDate: 2005-02-10T00:00:00.000Z,
+      shippedDate: 2005-02-06T00:00:00.000Z,
+      status: 'Shipped',
+      comments: null,
+      customerNumber: 119
+    },
+    {
+      orderNumber: 10425,
+      orderDate: 2005-05-31T00:00:00.000Z,
+      requiredDate: 2005-06-07T00:00:00.000Z,
+      shippedDate: null,
+      status: 'In Process',
+      comments: null,
+      customerNumber: 119
+    }
+  ]
+}
+{
+  customerNumber: 121,
+  customerName: 'Baane Mini Imports',
+  contactLastName: 'Bergulfsen',
+  contactFirstName: 'Jonas ',
+  phone: '07-98 9555',
+  addressLine1: 'Erling Skakkes gate 78',
+  addressLine2: null,
+  city: 'Stavern',
+  state: null,
+  postalCode: '4110',
+  country: 'Norway',
+  salesRepEmployeeNumber: 1504,
+  creditLimit: 81700,
+  orders: [
+    {
+      orderNumber: 10103,
+      orderDate: 2003-01-29T00:00:00.000Z,
+      requiredDate: 2003-02-07T00:00:00.000Z,
+      shippedDate: 2003-02-02T00:00:00.000Z,
+      status: 'Shipped',
+      comments: null,
+      customerNumber: 121
+    },
+    {
+      orderNumber: 10158,
+      orderDate: 2003-10-10T00:00:00.000Z,
+      requiredDate: 2003-10-18T00:00:00.000Z,
+      shippedDate: 2003-10-15T00:00:00.000Z,
+      status: 'Shipped',
+      comments: null,
+      customerNumber: 121
+    },
+    {
+      orderNumber: 10309,
+      orderDate: 2004-10-15T00:00:00.000Z,
+      requiredDate: 2004-10-24T00:00:00.000Z,
+      shippedDate: 2004-10-18T00:00:00.000Z,
+      status: 'Shipped',
+      comments: null,
+      customerNumber: 121
+    },
+    {
+      orderNumber: 10325,
+      orderDate: 2004-11-05T00:00:00.000Z,
+      requiredDate: 2004-11-13T00:00:00.000Z,
+      shippedDate: 2004-11-08T00:00:00.000Z,
+      status: 'Shipped',
+      comments: null,
+      customerNumber: 121
+    }
+  ]
+}
