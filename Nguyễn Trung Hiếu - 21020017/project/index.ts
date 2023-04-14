@@ -6,8 +6,7 @@ async function main() {
     const allCustomers = await prisma.customers.findMany({
         include: {
             orders: true
-        },
-        take: 5 
+        }
     })
     for(const customer of allCustomers) {
         console.log(customer)
